@@ -26,5 +26,7 @@ Welcome to the Tic-Tac-Toe battle game! Challenge your friend in this classic tw
 - **Real-Time Score Updates:** See your win/loss/tie records updated instantly.
 - **Replay Functionality:** Quickly start a new game without refreshing the page.
 
+[Try it here!]( https://rui-23.github.io/tic-tac-toe/)
+
 Enjoy your game and may the best player win!
 
